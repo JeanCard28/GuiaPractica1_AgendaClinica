@@ -1,0 +1,74 @@
+
+SISTEMA DE AGENDA DE TURNOS - CLINICA
+1. Registrar paciente
+2. Registrar turno
+3. Consultar paciente por cedula
+4. Visualizar todos los turnos
+5. Reporte por especialidad
+6. Cancelar turno
+7. Salir
+Seleccione una opcion: 
+LISTADO DE TURNOS
+1. Ana Maria Lopez | 2026-06-24 | 08:00 | Medicina general | Dra. Rivera | Agendado
+2. Carlos Perez Zambrano | 2026-06-24 | 09:00 | Odontologia | Dr. Molina | Agendado
+3. Lucia Torres Vega | 2026-06-25 | 10:00 | Pediatria | Dra. Cedeño | Agendado
+
+SISTEMA DE AGENDA DE TURNOS - CLINICA
+1. Registrar paciente
+2. Registrar turno
+3. Consultar paciente por cedula
+4. Visualizar todos los turnos
+5. Reporte por especialidad
+6. Cancelar turno
+7. Salir
+Seleccione una opcion: 
+REPORTE POR ESPECIALIDAD
+Medicina general: 1 turno(s)
+Pediatria: 1 turno(s)
+Odontologia: 1 turno(s)
+Ginecologia: 0 turno(s)
+
+SISTEMA DE AGENDA DE TURNOS - CLINICA
+1. Registrar paciente
+2. Registrar turno
+3. Consultar paciente por cedula
+4. Visualizar todos los turnos
+5. Reporte por especialidad
+6. Cancelar turno
+7. Salir
+Seleccione una opcion: Cedula a consultar: Paciente: Ana Maria Lopez | Edad: 28 | Telefono: 0991112223
+Turno 1: 2026-06-24 08:00 - Medicina general - Dra. Rivera - Agendado
+
+SISTEMA DE AGENDA DE TURNOS - CLINICA
+1. Registrar paciente
+2. Registrar turno
+3. Consultar paciente por cedula
+4. Visualizar todos los turnos
+5. Reporte por especialidad
+6. Cancelar turno
+7. Salir
+Seleccione una opcion: Codigo de turno a cancelar: Turno cancelado.
+
+SISTEMA DE AGENDA DE TURNOS - CLINICA
+1. Registrar paciente
+2. Registrar turno
+3. Consultar paciente por cedula
+4. Visualizar todos los turnos
+5. Reporte por especialidad
+6. Cancelar turno
+7. Salir
+Seleccione una opcion: 
+LISTADO DE TURNOS
+1. Ana Maria Lopez | 2026-06-24 | 08:00 | Medicina general | Dra. Rivera | Agendado
+2. Carlos Perez Zambrano | 2026-06-24 | 09:00 | Odontologia | Dr. Molina | Cancelado
+3. Lucia Torres Vega | 2026-06-25 | 10:00 | Pediatria | Dra. Cedeño | Agendado
+
+SISTEMA DE AGENDA DE TURNOS - CLINICA
+1. Registrar paciente
+2. Registrar turno
+3. Consultar paciente por cedula
+4. Visualizar todos los turnos
+5. Reporte por especialidad
+6. Cancelar turno
+7. Salir
+Seleccione una opcion: Gracias por usar el sistema.
